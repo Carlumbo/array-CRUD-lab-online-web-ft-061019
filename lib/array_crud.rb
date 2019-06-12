@@ -8,7 +8,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  my_array = ["earth", "air", 'fire', 'water']
+  # my_array = ["earth", "air", 'fire', 'water']
   my_array << "Metal"
   
 end
